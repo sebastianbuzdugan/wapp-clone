@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wapp-clone/static/css/main.b286230c.chunk.css",
+    "main.js": "/wapp-clone/static/js/main.3dad65a9.chunk.js",
+    "main.js.map": "/wapp-clone/static/js/main.3dad65a9.chunk.js.map",
+    "runtime-main.js": "/wapp-clone/static/js/runtime-main.2b19131c.js",
+    "runtime-main.js.map": "/wapp-clone/static/js/runtime-main.2b19131c.js.map",
+    "static/js/2.e04ccd80.chunk.js": "/wapp-clone/static/js/2.e04ccd80.chunk.js",
+    "static/js/2.e04ccd80.chunk.js.map": "/wapp-clone/static/js/2.e04ccd80.chunk.js.map",
+    "static/js/3.861c20f4.chunk.js": "/wapp-clone/static/js/3.861c20f4.chunk.js",
+    "static/js/3.861c20f4.chunk.js.map": "/wapp-clone/static/js/3.861c20f4.chunk.js.map",
+    "index.html": "/wapp-clone/index.html",
+    "static/css/main.b286230c.chunk.css.map": "/wapp-clone/static/css/main.b286230c.chunk.css.map",
+    "static/js/2.e04ccd80.chunk.js.LICENSE.txt": "/wapp-clone/static/js/2.e04ccd80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b19131c.js",
+    "static/js/2.e04ccd80.chunk.js",
+    "static/css/main.b286230c.chunk.css",
+    "static/js/main.3dad65a9.chunk.js"
+  ]
+}
